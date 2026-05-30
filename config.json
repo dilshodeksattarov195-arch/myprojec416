@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfync",
+        "uuid": 239200,
+        "checksum": "blvvm8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
